@@ -1,0 +1,20 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  padding: 0;
+  background-color: purple;
+}
+
+.boxs {
+  margin: 2vh 0;
+  padding-top: 1vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.box {
+  display: block;
+  margin: 2vh 0;
+  height: 28vh;
+  background-color: orange;
+}

@@ -1,0 +1,30 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: purple;
+}
+
+.boxs {
+  padding: 2vh 2vw;
+/*   float: left: */
+}
+
+.row {
+  display:flex;
+/*   background-color: blue; */
+  height: 32vh;
+  display: flex;
+  justify-content: flex-end;
+/*   margin-top: 3vh; */
+/*   margin: 0; */
+}
+
+
+
+.box {
+  margin: 2vh 2vw;
+  width: 13.6vw;
+/*   height: 28vh; */
+  background-color: orange;
+/*   float:left; */
+}
